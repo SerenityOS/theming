@@ -33,9 +33,17 @@ $ Meta/serenity.sh run
 
 Inside the running SerenityOS instance, you should have additional fonts, cursor-themes, icon-themes and themes for use.
 
+## Safest method: Use Ports/serenity-theming application
+```
+$ cd $HOME/serenity/Ports/serenity-theming
+$ ./package.sh
+```
+This will download contents of https://github.com/serenityos/theming repo (of a certain commit) and install it on your build.
+Majority of the resources will be available and ready to use inside SerenityOS except `icon-themes`, since we still need manual process of installing them before doing `Meta/serenity.sh run`.
+
 ## How to use Icon Theme
 Although theming repo is now a part of your SerenityOS build directory, using Icon Theme requires additional steps.
-Currently, there are a couple of Icon themes to try, `Black-and-White` and `Chillychilly`.
+Currently, there are a couple of Icon themes to try, `Black-and-White`, `Chillychilly` and `Durrque`.
 For safety purposes, create a Default Icon theme.
 ```
 $ cd $HOME/serenity
