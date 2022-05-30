@@ -11,6 +11,7 @@ Here you will find attribution information for all authors of resources/assets i
   - `cursor-themes/Chillychilly` - @djwisdom
   - `icon-themes/Chillychilly` - @djwisdom
   - `icon-themes/Black-and-White` - @Xexxa
+  - `icon-themes/Durrque` - @djwisdom
   - `icons/themes/NonDurrque` - @djwisdom
   - `themes/NonDurrque.ini` - @djwisdom
 
