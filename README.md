@@ -55,6 +55,8 @@ $ cd $HOME/serenity
 ~:serenity $ Meta/serenity.sh run
 # Revert back to Default Icons
 ~:serenity $ cp -r Base/res/icon-themes/Default/* Base/res/icons/
+or
+~:serenity $ git restore Base/res/icons/
 # Build and run
 ~:serenity $ Meta/serenity.sh run
 ```
