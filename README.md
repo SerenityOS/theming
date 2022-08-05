@@ -61,12 +61,5 @@ or
 ~:serenity $ Meta/serenity.sh run
 ```
 
-## To install only selected resources
-- copy content(s) of $HOME/theming/fonts into $HOME/serenity/Base/res/fonts
-- copy content(s) of $HOME/theming/themes into $HOME/serenity/Base/res/themes
-- copy content(s) of $HOME/theming/icons/themes into $HOME/serenity/Base/res/icons/themes
-- copy content(s) of $HOME/theming/cursor-themes into $HOME/serenity/Base/res/cursor-themes
-- copy content(s) of $HOME/theming/icon-themes into $HOME/serenity/Base/res/icon-themes
-
 We look forward to have these steps wrapped around a nice GUI interface soon-ish.
 Meanwhile, enjoy :^) 
