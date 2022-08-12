@@ -3,12 +3,16 @@
 ## Folder Structure
 ```
 .
+├── color-palettes
 ├── cursor-themes
+├── emoji
 ├── fonts
 ├── icon-themes
 ├── icons
 │   └── themes
-└── themes
+├── terminal-colors
+├── themes
+└── wallpapers
 ```
 
 Repo structure is similar to SerenityOS's `Base/res` repo or `/res` inside a running instance.
