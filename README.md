@@ -7,6 +7,7 @@
 ├── cursor-themes
 ├── emoji
 ├── fonts
+├── graphics
 ├── icon-themes
 ├── icons
 │   └── themes
